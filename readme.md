@@ -1,6 +1,6 @@
-# electV
+# ManageFraud
 
-Create and manage electronic vouchers and coupons
+System to manage fraud at POS
 
 ## Getting Started
 
